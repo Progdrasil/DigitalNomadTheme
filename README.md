@@ -2,7 +2,7 @@
 A wordpress theme for digital nomads
 
 ## Using :
-- Bootstrap 4
+- [Semantic UI](https://semantic-ui.com/)
 
 ## Contribution guidelines
 - We follow [Wordpress' coding standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/),
